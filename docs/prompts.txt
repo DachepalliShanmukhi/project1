@@ -1,0 +1,4 @@
+Prompt: Implement ByteSize.java that parses values like 1KB, 1.5MB into bytes.
+Prompt: Implement a new directive called AggregateStats for Wrangler.
+Prompt: Generate JUnit tests for AggregateStats directive.
+Prompt: Guide to compiling and testing wrangler with maven.
